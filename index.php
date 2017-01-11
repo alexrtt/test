@@ -1,4 +1,3 @@
 <?php
-echo "<hr/>";
-phpinfo();
-
+include("second_php");
+echo "HELLO WORLD";
